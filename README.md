@@ -1,2 +1,2 @@
-poc-spring-data-jpa-envers-integration
+Spring Data JPA Envers Integration POC
 ======================================
